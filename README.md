@@ -52,7 +52,7 @@ MathSciNet has a new interface coming up soon:
 ---
 
 ### 2. Mathematics Subject Classification (MSC)
-MSC results for "climate" from *searching the classification scheme* in [zbMATH](https://zbmath.org/classification/) or [MathSciNet](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2)    
+MSC results for "climate" from *searching the classification scheme* in [zbMATH](https://zbmath.org/classification/) or [MathSciNet](https://mathscinet-ams-org.focus.lib.kth.se/mathscinet/beta/msc-search)    
 
 ````
 86 (1940-now) Geophysics [See also 76U05, 76V05]    
