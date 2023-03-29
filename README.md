@@ -6,7 +6,7 @@ A simple resource page for a workshop about getting started with the two major b
 
 **zbMATH:** https://zbmath.org/    
 **MathSciNet:** https://mathscinet.ams.org   |   From outside of campus go [here](https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/)     
-**MathSciNet new interface:** https://mathscinet.ams.org/mathscinet/beta/publications-search   |   From outside of campus go [here](https://focus.lib.kth.se/login?URL=[https://www.ams.org/mathscinet/](https://mathscinet.ams.org/mathscinet/beta/publications-search))
+**MathSciNet new interface:** https://mathscinet.ams.org/mathscinet/beta/publications-search   |   From outside of campus go [here](https://mathscinet.ams.org/mathscinet/beta/publications-search)
 
 ---
 
