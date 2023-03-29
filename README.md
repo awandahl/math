@@ -39,7 +39,7 @@ MathSciNet has a new interface coming up soon:
 
 #### Results    
 **zbMATH:** 1168    
-**MathSciNet:** 968    
+**MathSciNet beta:** 905    
 
 #### Searching **with** quotation marks:    
 
@@ -47,7 +47,7 @@ MathSciNet has a new interface coming up soon:
 
 #### Results
 **zbMATH:** 996    
-**MathSciNet:** 715    
+**MathSciNet beta:** 695    
 
 ---
 
@@ -61,7 +61,7 @@ MSC results for "climate" from *searching the classification scheme* in [zbMATH]
 ````
 #### Results
 **zbMATH:** 223    
-**MathSciNet:** 130/242 (primary/secondary)    
+**MathSciNet beta:** pc:"86A08" OR sc:"86A08" = 242  
 
 ---
 ### 3. Advanced search    
@@ -71,7 +71,7 @@ a) *I want to find documents about the climate change and how it affects the oce
 My example:    
 
 **zbMATH:**  any:ocean* & cc:86A08  = 58    
-**MathSciNet:** MSC Primary/Secondary=(86A08) AND Anywhere=(ocean*) = 35    
+**MathSciNet beta:** pc:"86A08" AND any:(ocean*) = 48    
 
 b) *I want to find documents about applications of [tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry)*
 
