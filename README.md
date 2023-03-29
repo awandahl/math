@@ -79,12 +79,12 @@ My example:
 *Parentheses matters:*    
 pc:"86A08" OR sc:"86A08" AND any:(ocean*) = 169    
 (pc:(86A08) OR sc:(86A08)) AND any:(ocean*) = 86    
-any:(ocean*) AND (pc:(86A08) OR sc:(86A08)) = 86    
+  
 
 b) *I want to find documents about [tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry)*
 
-**zbMATH:** cc:14T90 | ab:"tropical geometry" = 432    
-**MathSciNet beta:** pc:(14t90) OR r:(tropical geometry) = 598  alt.  sc:(14t90) OR r:(tropical geometry) = 621 
+**zbMATH:** cc:14T90 | ab:"tropical geometr*" = 432    
+**MathSciNet beta:** pc:(14t90) OR r:(tropical geometr*) = 598  **alternatively**  sc:(14t90) OR r:(tropical geometr*) = 621 
 
 ---
 ### 4. Searching for an author    
