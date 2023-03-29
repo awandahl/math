@@ -1,6 +1,6 @@
 # Math databases
 
-A simple resource page for a workshop about exploring and using the two major bibliographic databases in mathematics.
+A simple resource page for a workshop about getting started with the two major bibliographic databases in mathematics.
 
 #### How to access:
 
