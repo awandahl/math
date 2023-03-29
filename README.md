@@ -41,7 +41,7 @@ MSN 715
 ---
 
 ### 3. Mathematics Subject Classification
-MSC results for "climate" from *searching the classification scheme* in [zbMATH](https://zbmath.org/classification/) or [MathSciNet](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2) (MathSciNet)    
+MSC results for "climate" from *searching the classification scheme* in [zbMATH](https://zbmath.org/classification/) or [MathSciNet](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2)    
 
 ````
 86 (1940-now) Geophysics [See also 76U05, 76V05]    
