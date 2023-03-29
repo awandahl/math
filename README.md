@@ -3,7 +3,7 @@
 #### Access:
 
 zbMATH Open: https://zbmath.org/    
-MathSciNet: https://mathscinet.ams.org/mathscinet/search.html  
+MathSciNet: https://mathscinet.ams.org/mathscinet/index.html      
 MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/   
 
 #### ETH Handouts    
