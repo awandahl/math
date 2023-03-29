@@ -60,12 +60,18 @@ MSC results for "climate" from *searching the classification scheme* in [zbMATH]
 ---
 ### 3. Advanced search    
 
-*I want to find documents about climate change and how it affects the oceans*    
+a) *I want to find documents about climate change and how it affects the oceans*    
 
 My example:    
 
-**zbMATH:**  *any:ocean* & cc:86A08*    
-**MathSciNet:** *MSC Primary/Secondary=(86A08) AND Anywhere=(ocean*)*
+**zbMATH:**  *any:ocean* & cc:86A08*  = 58    
+**MathSciNet:** *MSC Primary/Secondary=(86A08) AND Anywhere=(ocean*)* = 35    
+
+b) *I want to find documents about applications of tropical geometry*
+
+**zbMATH:** *cc:14T90 | ab:"tropical geometry" & ab:appli**  = 176    
+**MathSciNet:** *MSC Primary/Secondary=(14T90) OR Review Text=(tropical geometry) AND Review Text=(appli*)*
+
 
 ---
 ### 4. Searching for an author    
