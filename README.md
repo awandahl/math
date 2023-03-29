@@ -17,7 +17,7 @@ ETH Zürich has very good handouts covering these databases:
 [Introduction to the database zbMATH Open – Zentralblatt MATH](https://github.com/awandahl/math/blob/main/ETH_2022-03-11-ZentralblattMATH_Handout_EN.pdf)    
 [Introduction to the database MathSciNet – Mathematical Reviews](https://github.com/awandahl/math/blob/main/ETH_2022-03-11-MathSciNet_Handout_EN.pdf)
 
-MathSciNet has a new interface coming up soon:    
+MathSciNet has a new beta interface coming up soon:    
 
 [MathSciNet new beta interface](https://www.ams.org/publications/msn-quickstart-guide.pdf)
 
