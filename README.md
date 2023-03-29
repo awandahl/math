@@ -5,6 +5,7 @@ zbMATH Open: https://zbmath.org/
 MathSciNet: https://mathscinet.ams.org/mathscinet/search.html  
 MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/    
 
+---
 
 ### 1. Simple search  
 
@@ -27,7 +28,11 @@ MSN 715
 
 ---
 
-### 2. Mathematics Subject Classification
+### Advanced search    
+
+*I want a case-study about climate change and irrigation*
+
+### 3. Mathematics Subject Classification
 MSC results for "climate"    
 ````
 86 (1940-now) Geophysics [See also 76U05, 76V05]    
