@@ -60,8 +60,8 @@ MSN 130
 
 My example:    
 
-zbMATH:  *any:ocean* & cc:86A08*
-MathSciNet: *MSC Primary/Secondary=(86A08) AND Anywhere=(ocean*)*
+**zbMATH:**  *any:ocean* & cc:86A08*    
+**MathSciNet:** *MSC Primary/Secondary=(86A08) AND Anywhere=(ocean*)*
 
 ---
 ### 4. Searching for an author    
