@@ -25,6 +25,8 @@ MSN 968
 zbMATH 996    
 MSN 715    
 
+---
+
 ### 2. Mathematics Subject Classification
 MSC results for "climate"    
 ````
@@ -36,6 +38,8 @@ MSC results for "climate"
 zbMATH 223    
 MSN 130
 
+---
+
 ### Searching for an author    
 
 *Svante Linusson*    
@@ -43,4 +47,4 @@ MSN 130
 - Co-authors
 - Citations
 
-
+---
