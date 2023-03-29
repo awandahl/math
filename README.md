@@ -6,13 +6,22 @@ MathSciNet: https://mathscinet.ams.org/mathscinet/search.html
 MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/    
 
 
-### Simple search    
-Searching for: climate change   
+### Simple search  
+
+####Searching for:    
+````
+climate change    
+````
+
 #### Results
 zbMATH 1168    
 MSN 968    
 
-Searching for: "climate change" 
+#### Searching for:
+````
+"climate change" 
+````
+
 #### Results
 zbMATH 996    
 MSN 715    
