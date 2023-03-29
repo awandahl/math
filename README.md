@@ -3,7 +3,7 @@
 #### How to access:
 
 **zbMATH:** https://zbmath.org/    
-**MathSciNet:** https://mathscinet.ams.org/mathscinet/index.html   
+**MathSciNet:** https://mathscinet.ams.org   
 [MathSciNet from outside of campus](https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/)       
 
 ---
