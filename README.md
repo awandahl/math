@@ -28,7 +28,7 @@ MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://w
 *climate change*    
 
 #### Results    
-zbMATH 1168    
+**zbMATH:** 1168    
 MSN 968    
 
 #### Searching **with** quotation marks:    
@@ -36,8 +36,8 @@ MSN 968
 *"climate change"* 
 
 #### Results
-zbMATH 996    
-MSN 715    
+**zbMATH:** 996    
+**MathSciNet:** 715    
 
 ---
 
@@ -50,8 +50,8 @@ MSC results for "climate" from *searching the classification scheme* in [zbMATH]
 		**86A08** (2020-now) Climate science and climate modeling    
 ````
 #### Results
-zbMATH 223    
-MSN 130/242 (primary/secondary)    
+**zbMATH:** 223    
+**MathSciNet:** 130/242 (primary/secondary)    
 
 ---
 ### 3. Advanced search    
