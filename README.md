@@ -51,7 +51,7 @@ MSC results for "climate" from *searching the classification scheme* in [zbMATH]
 ````
 #### Results
 zbMATH 223    
-MSN 130
+MSN 130/242 (primary/secondary)    
 
 ---
 ### 3. Advanced search    
