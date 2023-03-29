@@ -86,7 +86,7 @@ b) *I want to find documents about [tropical geometry](https://en.wikipedia.org/
 ---
 ### 4. Searching for an author    
 
-*Svante Linusson*    
+*Sandra Di Rocco*    
 - Publications
 - Co-authors
 - Citations
