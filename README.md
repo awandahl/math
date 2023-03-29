@@ -1,5 +1,7 @@
 # Math databases
 
+A simple resource page for a workshop about exploring and using the two major bibliographic databases in mathematics.
+
 #### How to access:
 
 **zbMATH:** https://zbmath.org/    
