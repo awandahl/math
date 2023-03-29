@@ -32,7 +32,7 @@ MathSciNet has a new interface coming up soon:
 
 ### 1. Simple search  
 
-#### Searching **without** quotation marks:    
+#### Searching **without** quotation marks = the words in any order:    
 
 
 *climate change*    
@@ -41,7 +41,7 @@ MathSciNet has a new interface coming up soon:
 **zbMATH:** 1168    
 **MathSciNet beta:** 905    
 
-#### Searching **with** quotation marks:    
+#### Searching **with** quotation marks = the words as a phrase:    
 
 *"climate change"* 
 
