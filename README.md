@@ -67,7 +67,7 @@ My example:
 **zbMATH:**  any:ocean* & cc:86A08  = 58    
 **MathSciNet:** MSC Primary/Secondary=(86A08) AND Anywhere=(ocean*) = 35    
 
-b) *I want to find documents about applications of tropical geometry*
+b) *I want to find documents about applications of [tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry)*
 
 **zbMATH:** cc:14T90 | ab:"tropical geometry" & ab:appli*  = 176    
 **MathSciNet:** MSC Primary/Secondary=(14T90) OR Review Text=(tropical geometry) AND Review Text=(appli*) = 220    
