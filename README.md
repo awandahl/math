@@ -39,3 +39,8 @@ MSN 130
 ### Searching for an author    
 
 *Svante Linusson*    
+- Publications
+- Co-authors
+- Citations
+
+
