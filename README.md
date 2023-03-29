@@ -70,7 +70,7 @@ My example:
 b) *I want to find documents about applications of tropical geometry*
 
 **zbMATH:** *cc:14T90 | ab:"tropical geometry" & ab:appli**  = 176    
-**MathSciNet:** *MSC Primary/Secondary=(14T90) OR Review Text=(tropical geometry) AND Review Text=(appli*)*
+**MathSciNet:** *MSC Primary/Secondary=(14T90) OR Review Text=(tropical geometry) AND Review Text=(appli*)* = 220    
 
 
 ---
