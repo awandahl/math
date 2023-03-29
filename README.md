@@ -1,12 +1,14 @@
 # Math databases
 
-#### Access:
+#### How to access:
 
 **zbMATH:** https://zbmath.org/    
 **MathSciNet:** https://mathscinet.ams.org/mathscinet/index.html   
 [MathSciNet from outside of campus](https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/)       
 
-#### ETH Handouts    
+#### ETH Handouts   
+
+ETH Zürich has very good handouts covering these databases:    
 
 [Introduction to the database zbMATH Open – Zentralblatt MATH](https://github.com/awandahl/math/blob/main/ETH_2022-03-11-ZentralblattMATH_Handout_EN.pdf)    
 [Introduction to the database MathSciNet – Mathematical Reviews](https://github.com/awandahl/math/blob/main/ETH_2022-03-11-MathSciNet_Handout_EN.pdf)
