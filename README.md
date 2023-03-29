@@ -41,13 +41,7 @@ MSN 715
 
 ---
 
-### 2. Advanced search    
-
-*I want a case-study about climate change and irrigation*    
-
----
-
-### 3. Mathematics Subject Classification (MSC)
+### 2. Mathematics Subject Classification (MSC)
 MSC results for "climate" from *searching the classification scheme* in [zbMATH](https://zbmath.org/classification/) or [MathSciNet](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2)    
 
 ````
@@ -60,8 +54,17 @@ zbMATH 223
 MSN 130
 
 ---
+### 3. Advanced search    
 
-### Searching for an author    
+*I want to find documents about climate change and how it affects the oceans*    
+
+My example:    
+
+zbMATH:  *any:ocean* & cc:86A08*
+MathSciNet: *MSC Primary/Secondary=(86A08) AND Anywhere=(ocean*)*
+
+---
+### 4. Searching for an author    
 
 *Svante Linusson*    
 - Publications
