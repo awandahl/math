@@ -71,9 +71,10 @@ a) *I want to find documents about the climate change and how it affects the oce
 My example:    
 
 **zbMATH:**  any:ocean* & cc:86A08  = 58    
-**MathSciNet beta:** (pc:(86A08) OR sc:(86A08)) AND any:(ocean*)
+**MathSciNet beta:** *see below*
 
-*Parenthesis matters:*    
+*Parentheses matters:*    
+pc:"86A08" OR sc:"86A08" AND any:(ocean*) = 169    
 (pc:(86A08) OR sc:(86A08)) AND any:(ocean*) = 86    
 any:(ocean*) AND (pc:(86A08) OR sc:(86A08)) = 86    
 
