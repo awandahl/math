@@ -1,9 +1,15 @@
 # Math databases
 
+#### Access:
 
 zbMATH Open: https://zbmath.org/    
 MathSciNet: https://mathscinet.ams.org/mathscinet/search.html  
-MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/    
+MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/   
+
+#### ETH Handouts    
+
+[Introduction to the database zbMATH Open – Zentralblatt MATH](https://github.com/awandahl/math/blob/main/ETH_2022-03-11-ZentralblattMATH_Handout_EN.pdf)
+[Introduction to the database MathSciNet – Mathematical Reviews](https://github.com/awandahl/math/blob/main/ETH_2022-03-11-MathSciNet_Handout_EN.pdf)
 
 ---
 
