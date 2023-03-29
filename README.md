@@ -81,7 +81,7 @@ any:(ocean*) AND (pc:(86A08) OR sc:(86A08)) = 86
 b) *I want to find documents about applications of [tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry)*
 
 **zbMATH:** cc:14T90 | ab:"tropical geometry" & ab:appli*  = 176    
-**MathSciNet:** pc:(14t90) OR r:(tropical geometry) AND r:(appli*) = 181   
+**MathSciNet beta:** pc:(14t90) OR r:(tropical geometry) AND r:(appli*) = 181  alt.  sc:(14t90) OR r:(tropical geometry) AND r:(appli*)    
 
 ---
 ### 4. Searching for an author    
