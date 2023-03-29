@@ -34,9 +34,11 @@ MSN 715
 
 ---
 
-### Advanced search    
+### 2. Advanced search    
 
-*I want a case-study about climate change and irrigation*
+*I want a case-study about climate change and irrigation*    
+
+---
 
 ### 3. Mathematics Subject Classification
 MSC results for "climate"    
