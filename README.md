@@ -6,7 +6,7 @@ MathSciNet: https://mathscinet.ams.org/mathscinet/search.html
 MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://www.ams.org/mathscinet/    
 
 
-### Simple search  
+### 1. Simple search  
 
 #### Searching **without** quotation marks:    
 
@@ -25,7 +25,7 @@ MSN 968
 zbMATH 996    
 MSN 715    
 
-### Mathematics Subject Classification
+### 2. Mathematics Subject Classification
 MSC results for "climate"    
 ````
 86 (1940-now) Geophysics [See also 76U05, 76V05]    
@@ -35,3 +35,7 @@ MSC results for "climate"
 #### Results
 zbMATH 223    
 MSN 130
+
+### Searching for an author    
+
+*Svante Linusson*    
