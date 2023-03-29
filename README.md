@@ -61,7 +61,7 @@ MSC results for "climate" from *searching the classification scheme* in [zbMATH]
 ---
 ### 3. Advanced search    
 
-a) *I want to find documents about climate change and how it affects the oceans*    
+a) *I want to find documents about the climate change and how it affects the oceans* (More synonyms would be useful...)       
 
 My example:    
 
