@@ -10,17 +10,17 @@ MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://w
 
 #### Searching **without** quotation marks:    
 
-````
-climate change    
-````
+
+*climate change*    
+
 #### Results    
 zbMATH 1168    
 MSN 968    
 
 #### Searching **with** quotation marks:    
-````
-"climate change" 
-````
+
+*"climate change"* 
+
 #### Results
 zbMATH 996    
 MSN 715    
