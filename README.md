@@ -59,8 +59,11 @@ MSC results for "climate" from *searching the classification scheme* in [zbMATH]
 	86A (1980-now) Geophysics [See also 76U05, 76V05]    
 		**86A08** (2020-now) Climate science and climate modeling    
 ````
+
+#### Searching for 86A08    
+
 #### Results
-**zbMATH:** 223    
+**zbMATH:** cc:86A08 = 223    
 **MathSciNet beta:** pc:"86A08" OR sc:"86A08" = 242  
 
 ---
