@@ -8,12 +8,11 @@ MathSciNet from outside of campus:  https://focus.lib.kth.se/login?URL=https://w
 
 ### Simple search  
 
-####Searching for:    
+#### Searching for:    
 ````
 climate change    
 ````
-
-#### Results
+#### Results    
 zbMATH 1168    
 MSN 968    
 
@@ -21,7 +20,6 @@ MSN 968
 ````
 "climate change" 
 ````
-
 #### Results
 zbMATH 996    
 MSN 715    
