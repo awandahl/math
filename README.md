@@ -71,7 +71,11 @@ a) *I want to find documents about the climate change and how it affects the oce
 My example:    
 
 **zbMATH:**  any:ocean* & cc:86A08  = 58    
-**MathSciNet beta:** pc:"86A08" AND any:(ocean*) = 48    
+**MathSciNet beta:** (pc:(86A08) OR sc:(86A08)) AND any:(ocean*)
+
+*Parenthesis matters:*    
+(pc:(86A08) OR sc:(86A08)) AND any:(ocean*) = 86    
+any:(ocean*) AND (pc:(86A08) OR sc:(86A08)) = 86    
 
 b) *I want to find documents about applications of [tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry)*
 
