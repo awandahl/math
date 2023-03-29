@@ -19,7 +19,7 @@ ETH Zürich has very good handouts covering these databases:
 
 MathSciNet has a new interface coming up soon:    
 
-[MathSciNet new interface](https://www.ams.org/publications/msn-quickstart-guide.pdf)
+[MathSciNet new beta interface](https://www.ams.org/publications/msn-quickstart-guide.pdf)
 
 ---
 ### About
