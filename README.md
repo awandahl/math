@@ -1,6 +1,8 @@
 # Math databases
 
-A simple resource page for a workshop about getting started with the two major bibliographic databases in mathematics.
+A simple resource page for a workshop about getting started with the two major bibliographic databases in mathematics.     
+
+Anders Wändahl  aw@kth.se
 
 #### How to access:
 
